@@ -4,7 +4,7 @@ A curated list of "escape hatches" in software.
 
 * Motivation
 
-Knowing how to =cancel=, =undo=, and =redo= help ease the fear of making mistakes. This list collects all software that does not follows the =Ctrl-z= pattern.
+Knowing how to =cancel=, =undo=, and =redo= help eases the fear of making mistakes. This list collects all software that does not follows the =Ctrl-z= pattern.
 
 * Emacs
 
