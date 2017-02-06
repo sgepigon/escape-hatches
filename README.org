@@ -1,0 +1,21 @@
+#+TITLE: Escape Hatches
+
+A curated list of "escape hatches" in software.
+
+* Motivation
+
+Knowing how to =cancel=, =undo=, and =redo= help ease the fear of making mistakes. This list collects all software that does not follows the =Ctrl-z= pattern.
+
+* Emacs
+
+| Action | Keybinding |
+|--------+------------|
+| Cancel | =C-g=      |
+| Undo   | =C-/=      |
+
+* Vim
+
+| Action | Keybinding |
+|--------+------------|
+| Cancel | =C-g=      |
+| Undo   | =u=        |
