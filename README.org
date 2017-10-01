@@ -15,10 +15,11 @@ Knowing how to =cancel=, =undo=, and =redo= help eases the fear of making mistak
 
 * Vim
 
-| Action | Keybinding |
-|--------+------------|
-| Cancel | =C-g=      |
-| Undo   | =u=        |
+| Action | Keybinding | Notes               |
+|--------+------------+---------------------|
+| Cancel | =ESC=      | in *any* vim mode   |
+| Undo   | =u=        | in vim command mode |
+| Redo   | =Ctrl-r=   | in vim command mode |
 
 * Git
 
