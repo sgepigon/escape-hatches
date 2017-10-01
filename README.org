@@ -8,10 +8,11 @@ Knowing how to =cancel=, =undo=, and =redo= help eases the fear of making mistak
 
 * Emacs
 
-| Action | Keybinding |
-|--------+------------|
-| Cancel | =C-g=      |
-| Undo   | =C-/=      |
+| Action | Keybinding       | Notes           |
+|--------+------------------+-----------------|
+| Cancel | =C-g=            |                 |
+| Undo   | =C-/=            |                 |
+| Redo   | =C-f= then =C-/= | [[https://stackoverflow.com/questions/3527142/how-do-you-redo-changes-after-undo-with-emacs]["undo the undo"]] |
 
 * Vim
 
