@@ -19,3 +19,15 @@ Knowing how to =cancel=, =undo=, and =redo= help eases the fear of making mistak
 |--------+------------|
 | Cancel | =C-g=      |
 | Undo   | =u=        |
+
+* Git
+
+A lot of good tips are shared in [[http://ohshitgit.com/][Oh shit, git!]]:
+
+- [[http://ohshitgit.com/#magic-time-machine][Magic Time Machine]]
+- [[http://ohshitgit.com/#change-last-commit][Change Last Commit]]
+- [[http://ohshitgit.com/#change-last-commit-message][Change Last Commit Message]]
+- [[http://ohshitgit.com/#accidental-commit-master][Accidental Commit to Master]]
+- [[http://ohshitgit.com/#accidental-commit-wrong-branch][Accidental Commit to Wrong Branch]]
+- [[http://ohshitgit.com/#dude-wheres-my-diff][Tried to Run a diff but Nothing Happened]]
+- [[http://ohshitgit.com/#fuck-this-noise][Fuck This Noise]]
